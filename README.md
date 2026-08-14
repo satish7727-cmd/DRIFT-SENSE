@@ -1,4 +1,5 @@
 # DRIFT-SENSE
+![DRIFT-SENSE GUI](figures/drift_sense_gui.png)
 
 ## Robust Multi-scale and Rotation-aware Template Detection
 
