@@ -1,0 +1,3 @@
+Method,Matching Score,Localization Error (pixels),Success
+Normal Template,0.678829,637.377439,False
+Multi-scale + Rotation,0.971522,0.0,True

@@ -1,0 +1,10 @@
+{
+    "target_top_left_x": 600,
+    "target_top_left_y": 650,
+    "scale": 1.3,
+    "rotation": 6.0,
+    "target_width": 130,
+    "target_height": 130,
+    "ground_truth_center_x": 665.0,
+    "ground_truth_center_y": 715.0
+}
